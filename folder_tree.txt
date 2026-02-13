@@ -96,18 +96,14 @@
 │   │   ├── dashboard.html
 │   │   ├── floating_assistant_orb.py
 │   │   ├── index.html
-│   │   ├── main.js
 │   │   ├── orb_controller.py
 │   │   ├── orb_skg_manager.py
-│   │   ├── preload.js
 │   │   ├── settings.html
-│   │   ├── simple-orb.js
 │   │   └── ucm_server.py
 │   ├── package-lock.json
 │   ├── package.json
 │   ├── README.md
-│   ├── requirements.txt
-│   └── ws-stub.js
+│   └── requirements.txt
 ├── modules
 │   ├── Adaptive_Cochlear_Processor_1.0
 │   │   ├── acp_1_0
@@ -166,84 +162,8 @@
 │   │   ├── space_field.py
 │   │   ├── stress_test.py
 │   │   └── visualize.py
-│   ├── Orb
-│   │   └── floating_assistant_orb.py
-│   └── SF-ORB
-│       ├── core_4_minds
-│       │   ├── bspinoza
-│       │   │   └── spinoza_monism_skg.json
-│       │   ├── hhume
-│       │   │   └── hume_skepticism_skg.json
-│       │   ├── hlocke
-│       │   │   └── locke_empiricism_skg.json
-│       │   ├── ikant
-│       │   │   └── kant_critical_skg.json
-│       │   └── tribunal.py
-│       ├── hlsf_geometry
-│       │   ├── block_matrices
-│       │   ├── recursive_field
-│       │   └── engine.py
-│       ├── interface
-│       │   ├── assets
-│       │   ├── shaders
-│       │   └── orb_window.py
-│       ├── logic_seeds
-│       │   ├── deductive_SKG
-│       │   │   ├── job
-│       │   │   │   └── execute.py
-│       │   │   ├── jobs
-│       │   │   │   └── execute.py
-│       │   │   ├── logic
-│       │   │   │   ├── cognitive_state.py
-│       │   │   │   └── deductive_logic.py
-│       │   │   ├── vault
-│       │   │   │   ├── apriori
-│       │   │   │   └── trace
-│       │   │   └── worker.json
-│       │   ├── deductive_validator
-│       │   │   ├── job
-│       │   │   │   └── validate.py
-│       │   │   ├── logic
-│       │   │   │   ├── deductive_validation.py
-│       │   │   │   └── validation_state.py
-│       │   │   ├── vault
-│       │   │   └── worker.json
-│       │   ├── inductive
-│       │   │   ├── cursor_habit.json
-│       │   │   └── moral_habit.json
-│       │   ├── inductive_skg
-│       │   │   └── logic
-│       │   │       ├── cognitive_stat.py
-│       │   │       ├── cognitive_state.py
-│       │   │       └── inductive_logic.py
-│       │   ├── inductive_validator
-│       │   │   ├── logic
-│       │   │   │   ├── inductive_validation.py
-│       │   │   │   └── validation_state.py
-│       │   │   └── worker.json
-│       │   ├── intuitive
-│       │   │   └── pattern_recognition.json
-│       │   ├── intuitive_skg
-│       │   │   └── logic
-│       │   │       ├── cognitive_state.py
-│       │   │       └── intuitive_logic.py
-│       │   ├── intuitive_validator
-│       │   │   ├── logic
-│       │   │   │   ├── intuitive_validation.py
-│       │   │   │   └── validation_state.py
-│       │   │   └── worker.json
-│       │   └── validation_pipeline.py
-│       ├── vault_system
-│       │   ├── apriori
-│       │   │   └── apriori_core.json
-│       │   ├── posteriori
-│       │   ├── apriori_core.json
-│       │   └── manager.py
-│       ├── bayesian_engine.py
-│       ├── direct_ethical_test.py
-│       ├── orb_controller.py
-│       ├── README.md
-│       └── requirements.txt
+│   └── Orb
+│       └── floating_assistant_orb.py
 ├── vault_system
 │   └── posteriori
 ├── folder_tree.txt
