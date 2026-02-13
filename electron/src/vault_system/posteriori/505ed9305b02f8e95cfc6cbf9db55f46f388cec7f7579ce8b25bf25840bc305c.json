@@ -1,0 +1,42 @@
+{
+    "predicate": {
+        "glow_intensity": 0.87,
+        "spatial_coordinate": {
+            "node_id": "NODE_18_10",
+            "recursion_depth": 10,
+            "coordinates": [
+                0.006000000000000005,
+                0.3879999999999999,
+                0.812,
+                -0.762,
+                0.6419999999999999,
+                0.3360000000000001,
+                0.502,
+                0.718,
+                0.966,
+                0.8740000000000001,
+                0.6519999999999999,
+                -0.472,
+                0.72,
+                0.16799999999999993,
+                -0.242,
+                -0.8180000000000001,
+                0.02400000000000002,
+                0.476
+            ],
+            "adjacency_value": 0.0
+        },
+        "epistemic_alignment": 0.692,
+        "deterministic": false,
+        "predictive_intent": {
+            "prediction_type": "UNSURE",
+            "confidence": 0.3,
+            "hume_vivacity": 0.4
+        },
+        "jump_vector": [],
+        "cognitive_mode": "GUARD"
+    },
+    "confidence": 0.87,
+    "triad_c_mode": "GUARD-HABIT",
+    "field_density": 3339
+}
