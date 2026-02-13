@@ -1,7 +1,3 @@
-├── browser
-│   ├── index.html
-│   ├── orb.css
-│   └── orb.js
 ├── electron
 │   ├── main
 │   │   ├── main.js
@@ -98,8 +94,7 @@
 │   │   ├── index.html
 │   │   ├── orb_controller.py
 │   │   ├── orb_skg_manager.py
-│   │   ├── settings.html
-│   │   └── ucm_server.py
+│   │   └── settings.html
 │   ├── package-lock.json
 │   ├── package.json
 │   ├── README.md
